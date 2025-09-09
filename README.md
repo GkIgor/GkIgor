@@ -44,8 +44,8 @@ Acredito na programação orientada a objetos e na simplicidade do código. Pref
 ## 🎭 Além da Programação
 Atualmente, estou atuando como suporte de TI, focado em gestão de sistemas, regras de negócio e desenvolvimento de pessoas com foco em atendimento ao usuário. Acredito que a comunicação e o trabalho em equipe são tão importantes quanto o código que escrevo!
 
-- 🔭 **Atualmente trabalhando no** [Grupo Carrefour Brasil](https://www.grupocarrefour.com.br/)
-- 🌱 **Atualmente aprendendo** C++
+- 🔭 **Atualmente trabalhando em** Sunter Tecnologia
+- 🌱 **Atualmente aprendendo** OpenGL
 
 ## 📫 Vamos Conversar!
 Sinta-se à vontade para entrar em contato ou seguir meu trabalho aqui no GitHub. Estou sempre aberto a colaborações e novas ideias.  
